@@ -20,8 +20,20 @@
         "source": "/home/almehairbi/AndroidStudioProjects/Tutorme/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/color-v23/design_tint_password_toggle.xml"
     },
     {
+        "merged": "/home/ali/AndroidStudioProjects/tutorme/TutormeApp/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/ali/AndroidStudioProjects/tutorme/TutormeApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/ali/AndroidStudioProjects/tutorme/TutormeApp/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/ali/AndroidStudioProjects/tutorme/TutormeApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
         "merged": "/home/almehairbi/AndroidStudioProjects/Tutorme/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
         "source": "/home/almehairbi/AndroidStudioProjects/Tutorme/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/ali/AndroidStudioProjects/tutorme/TutormeApp/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/ali/AndroidStudioProjects/tutorme/TutormeApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_seek_thumb.xml"
     },
     {
         "merged": "/home/almehairbi/AndroidStudioProjects/Tutorme/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
@@ -32,8 +44,16 @@
         "source": "/home/almehairbi/AndroidStudioProjects/Tutorme/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_seek_thumb.xml"
     },
     {
+        "merged": "/home/ali/AndroidStudioProjects/tutorme/TutormeApp/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/ali/AndroidStudioProjects/tutorme/TutormeApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
         "merged": "/home/almehairbi/AndroidStudioProjects/Tutorme/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
         "source": "/home/almehairbi/AndroidStudioProjects/Tutorme/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/ali/AndroidStudioProjects/tutorme/TutormeApp/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/ali/AndroidStudioProjects/tutorme/TutormeApp/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/color-v23/design_tint_password_toggle.xml"
     },
     {
         "merged": "/home/almehairbi/AndroidStudioProjects/Tutorme/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
@@ -42,5 +62,29 @@
     {
         "merged": "/home/almehairbi/AndroidStudioProjects/Tutorme/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
         "source": "/home/almehairbi/AndroidStudioProjects/Tutorme/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/ali/AndroidStudioProjects/tutorme/TutormeApp/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/ali/AndroidStudioProjects/tutorme/TutormeApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/ali/AndroidStudioProjects/tutorme/TutormeApp/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/ali/AndroidStudioProjects/tutorme/TutormeApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/ali/AndroidStudioProjects/tutorme/TutormeApp/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/ali/AndroidStudioProjects/tutorme/TutormeApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/ali/AndroidStudioProjects/tutorme/TutormeApp/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/ali/AndroidStudioProjects/tutorme/TutormeApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/ali/AndroidStudioProjects/tutorme/TutormeApp/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/ali/AndroidStudioProjects/tutorme/TutormeApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/ali/AndroidStudioProjects/tutorme/TutormeApp/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/ali/AndroidStudioProjects/tutorme/TutormeApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/color-v23/abc_tint_switch_track.xml"
     }
 ]
